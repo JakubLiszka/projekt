@@ -1,7 +1,5 @@
 # projekt
-aaaaaaaaaaaaaaa
-*bbbbbbbbbbbbb*
-_ccccccccccccc_ 
--dddd
--eeee
--ffff
+aaaaaaaaaaawaeijjjjjjjjjjsd
+# jeden 
+# dwa
+# trzy
